@@ -70,6 +70,9 @@ export default function Weather() {
           />
           <input type="submit" value="Search" />
         </form>
+        <footer>
+            Created by Amira Fareh and <a href ="https://github.com/AmiraFareh/weather-react">open-sourced on GitHub </a>
+        </footer>
       </div>
     );
   }
