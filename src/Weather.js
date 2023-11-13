@@ -53,7 +53,7 @@ export default function Weather() {
           </li>
         </ul>
         <footer>
-            Created by Amira Fareh and <a href ="">open-sourced on GitHub </a>
+            Created by Amira Fareh and <a href ="https://github.com/AmiraFareh/weather-react">open-sourced on GitHub </a>
         </footer>
       </div>
     
